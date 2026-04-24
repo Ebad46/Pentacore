@@ -19,7 +19,6 @@
     "next": "16.2.4",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "react-font-style": "^0.0.11",
     "tailwind-merge": "^3.5.0",
     "three": "^0.184.0"
   },
